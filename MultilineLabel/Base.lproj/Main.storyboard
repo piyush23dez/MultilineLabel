@@ -49,8 +49,8 @@
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Bud-fx-IAq">
-                                <rect key="frame" x="142" y="617" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="144" y="617" width="86" height="30"/>
+                                <state key="normal" title="Change Text"/>
                                 <connections>
                                     <action selector="updateLabelText:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jsl-LZ-QZJ"/>
                                 </connections>
@@ -58,7 +58,7 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="Bud-fx-IAq" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="142" id="1PB-KX-q8T"/>
+                            <constraint firstItem="Bud-fx-IAq" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="144" id="1PB-KX-q8T"/>
                             <constraint firstAttribute="bottom" secondItem="Bud-fx-IAq" secondAttribute="bottom" constant="20" symbolic="YES" id="7CL-Io-o9F"/>
                             <constraint firstItem="mGU-Wd-EKV" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Q55-fa-wPU"/>
                             <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="Bud-fx-IAq" secondAttribute="trailing" constant="20" symbolic="YES" id="VIT-6y-98s"/>
